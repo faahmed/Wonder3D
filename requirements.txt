@@ -31,12 +31,9 @@ segment_anything
 gradio
 fire
 Pillow
-functools
 cv2
 time
 numpy
-os
-sys
 threading
 urllib.request
 typing
