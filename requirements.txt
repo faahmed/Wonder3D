@@ -30,7 +30,7 @@ rembg
 segment_anything
 gradio
 fire
-PIL
+Pillow
 functools
 cv2
 time
