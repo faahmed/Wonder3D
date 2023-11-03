@@ -31,12 +31,6 @@ segment_anything
 gradio
 fire
 Pillow
-cv2
-time
 numpy
-threading
-urllib.request
-typing
-dataclasses
 streamlit
 huggingface_hub
